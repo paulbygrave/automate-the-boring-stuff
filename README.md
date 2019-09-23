@@ -1,2 +1,1 @@
-# python-training
-# python-training
+# Automate the Boring Stuff - Udemy course
