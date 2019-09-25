@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 name = 'Alice'
 if name == 'Alice':
     print('Hi Alice.')

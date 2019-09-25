@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 print('Please enter your name:')
 name = input()
 if name:

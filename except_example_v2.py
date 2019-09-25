@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 print('How many dogs do you have?')
 numDogs = input()
 try:

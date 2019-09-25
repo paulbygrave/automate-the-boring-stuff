@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 catNames = []
 while True:
     print('Enter the name of cat ' + str(len(catNames) + 1) +

@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 import pprint
 
 message = 'All this Brexit stuff is a nightmare.'

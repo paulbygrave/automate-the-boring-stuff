@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 def div42by(divideBy):
     try:
         return 42 / divideBy
