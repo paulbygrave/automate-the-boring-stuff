@@ -1,4 +1,5 @@
 # A game of "I, Spy"
+#!/usr/bin/python3
 import sys
 
 attempts = 0
