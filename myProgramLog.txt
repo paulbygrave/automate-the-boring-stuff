@@ -1,0 +1,96 @@
+2019-10-14 11:46:38,398 = DEBUG = Start of program
+2019-10-14 11:46:38,398 = DEBUG = Start of factorial (12)
+2019-10-14 11:46:38,398 = DEBUG = i is 1, total is 1
+2019-10-14 11:46:38,398 = DEBUG = i is 2, total is 2
+2019-10-14 11:46:38,398 = DEBUG = i is 3, total is 6
+2019-10-14 11:46:38,399 = DEBUG = i is 4, total is 24
+2019-10-14 11:46:38,399 = DEBUG = i is 5, total is 120
+2019-10-14 11:46:38,399 = DEBUG = i is 6, total is 720
+2019-10-14 11:46:38,399 = DEBUG = i is 7, total is 5040
+2019-10-14 11:46:38,399 = DEBUG = i is 8, total is 40320
+2019-10-14 11:46:38,399 = DEBUG = i is 9, total is 362880
+2019-10-14 11:46:38,399 = DEBUG = i is 10, total is 3628800
+2019-10-14 11:46:38,399 = DEBUG = i is 11, total is 39916800
+2019-10-14 11:46:38,399 = DEBUG = i is 12, total is 479001600
+2019-10-14 11:46:38,399 = INFO = return value is 479001600
+2019-10-14 11:46:38,399 = DEBUG = End of program
+2019-10-14 11:59:52,252 = DEBUG = Start of program
+2019-10-14 11:59:52,253 = DEBUG = Start of factorial (12)
+2019-10-14 11:59:52,253 = DEBUG = i is 1, total is 1
+2019-10-14 11:59:52,253 = DEBUG = i is 2, total is 2
+2019-10-14 11:59:52,253 = DEBUG = i is 3, total is 6
+2019-10-14 11:59:52,253 = DEBUG = i is 4, total is 24
+2019-10-14 11:59:52,254 = DEBUG = i is 5, total is 120
+2019-10-14 11:59:52,254 = DEBUG = i is 6, total is 720
+2019-10-14 11:59:52,254 = DEBUG = i is 7, total is 5040
+2019-10-14 11:59:52,254 = DEBUG = i is 8, total is 40320
+2019-10-14 11:59:52,254 = DEBUG = i is 9, total is 362880
+2019-10-14 11:59:52,255 = DEBUG = i is 10, total is 3628800
+2019-10-14 11:59:52,255 = DEBUG = i is 11, total is 39916800
+2019-10-14 11:59:52,255 = DEBUG = i is 12, total is 479001600
+2019-10-14 11:59:52,255 = INFO = return value is 479001600
+2019-10-14 11:59:52,258 = DEBUG = End of program
+2019-10-14 12:00:01,691 = DEBUG = Start of program
+2019-10-14 12:00:01,691 = DEBUG = Start of factorial (12)
+2019-10-14 12:00:01,692 = DEBUG = i is 1, total is 1
+2019-10-14 12:00:01,692 = DEBUG = i is 2, total is 2
+2019-10-14 12:00:01,692 = DEBUG = i is 3, total is 6
+2019-10-14 12:00:01,692 = DEBUG = i is 4, total is 24
+2019-10-14 12:00:01,692 = DEBUG = i is 5, total is 120
+2019-10-14 12:00:01,692 = DEBUG = i is 6, total is 720
+2019-10-14 12:00:01,692 = DEBUG = i is 7, total is 5040
+2019-10-14 12:00:01,692 = DEBUG = i is 8, total is 40320
+2019-10-14 12:00:01,692 = DEBUG = i is 9, total is 362880
+2019-10-14 12:00:01,692 = DEBUG = i is 10, total is 3628800
+2019-10-14 12:00:01,692 = DEBUG = i is 11, total is 39916800
+2019-10-14 12:00:01,692 = DEBUG = i is 12, total is 479001600
+2019-10-14 12:00:01,692 = INFO = return value is 479001600
+2019-10-14 12:00:01,692 = DEBUG = End of program
+2019-10-14 12:00:10,533 = DEBUG = Start of program
+2019-10-14 12:00:10,533 = DEBUG = Start of factorial (12)
+2019-10-14 12:00:10,533 = DEBUG = i is 1, total is 1
+2019-10-14 12:00:10,533 = DEBUG = i is 2, total is 2
+2019-10-14 12:00:10,534 = DEBUG = i is 3, total is 6
+2019-10-14 12:00:10,534 = DEBUG = i is 4, total is 24
+2019-10-14 12:00:10,534 = DEBUG = i is 5, total is 120
+2019-10-14 12:00:10,534 = DEBUG = i is 6, total is 720
+2019-10-14 12:00:10,534 = DEBUG = i is 7, total is 5040
+2019-10-14 12:00:10,534 = DEBUG = i is 8, total is 40320
+2019-10-14 12:00:10,534 = DEBUG = i is 9, total is 362880
+2019-10-14 12:00:10,534 = DEBUG = i is 10, total is 3628800
+2019-10-14 12:00:10,535 = DEBUG = i is 11, total is 39916800
+2019-10-14 12:00:10,535 = DEBUG = i is 12, total is 479001600
+2019-10-14 12:00:10,535 = INFO = return value is 479001600
+2019-10-14 12:00:10,537 = DEBUG = End of program
+2019-10-14 12:00:33,836 = DEBUG = Start of program
+2019-10-14 12:00:33,837 = DEBUG = Start of factorial (12)
+2019-10-14 12:00:33,837 = DEBUG = i is 1, total is 1
+2019-10-14 12:00:33,837 = DEBUG = i is 2, total is 2
+2019-10-14 12:00:33,837 = DEBUG = i is 3, total is 6
+2019-10-14 12:00:33,837 = DEBUG = i is 4, total is 24
+2019-10-14 12:00:33,838 = DEBUG = i is 5, total is 120
+2019-10-14 12:00:33,838 = DEBUG = i is 6, total is 720
+2019-10-14 12:00:33,838 = DEBUG = i is 7, total is 5040
+2019-10-14 12:00:33,838 = DEBUG = i is 8, total is 40320
+2019-10-14 12:00:33,838 = DEBUG = i is 9, total is 362880
+2019-10-14 12:00:33,838 = DEBUG = i is 10, total is 3628800
+2019-10-14 12:00:33,838 = DEBUG = i is 11, total is 39916800
+2019-10-14 12:00:33,838 = DEBUG = i is 12, total is 479001600
+2019-10-14 12:00:33,838 = INFO = return value is 479001600
+2019-10-14 12:00:33,840 = DEBUG = End of program
+2019-10-14 13:12:33,531 = DEBUG = Start of program
+2019-10-14 13:12:33,531 = DEBUG = Start of factorial (12)
+2019-10-14 13:12:33,531 = DEBUG = i is 1, total is 1
+2019-10-14 13:12:33,531 = DEBUG = i is 2, total is 2
+2019-10-14 13:12:33,531 = DEBUG = i is 3, total is 6
+2019-10-14 13:12:33,531 = DEBUG = i is 4, total is 24
+2019-10-14 13:12:33,531 = DEBUG = i is 5, total is 120
+2019-10-14 13:12:33,531 = DEBUG = i is 6, total is 720
+2019-10-14 13:12:33,531 = DEBUG = i is 7, total is 5040
+2019-10-14 13:12:33,531 = DEBUG = i is 8, total is 40320
+2019-10-14 13:12:33,531 = DEBUG = i is 9, total is 362880
+2019-10-14 13:12:33,531 = DEBUG = i is 10, total is 3628800
+2019-10-14 13:12:33,531 = DEBUG = i is 11, total is 39916800
+2019-10-14 13:12:33,531 = DEBUG = i is 12, total is 479001600
+2019-10-14 13:12:33,531 = INFO = return value is 479001600
+2019-10-14 13:12:33,532 = DEBUG = End of program
